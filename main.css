@@ -12,6 +12,10 @@ body {
   box-sizing: border-box;
 }
 
+input, button{
+outline: none;
+}
+
 p {
   line-height: 1.8em;
 }
